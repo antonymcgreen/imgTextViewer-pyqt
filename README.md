@@ -1,0 +1,1 @@
+# imgTextViewer-pyqt
